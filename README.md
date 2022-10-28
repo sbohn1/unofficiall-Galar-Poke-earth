@@ -1,7 +1,7 @@
 # unofficiall-Galar-Poke-earth
 An unofficial Serebii-Styled poke-earth for the Galar Region, linking to Serebii's pages on each location. (Serebii staff is welcome to use this map)
 
-Image from here, seek them for use https://www.sporcle.com/games/DLspartan93/pokmon-shieldsword-galar-map-
+Image source: https://www.sporcle.com/games/DLspartan93/pokmon-shieldsword-galar-map-
 
 HTML from me, using various online recourses for references. 
 
